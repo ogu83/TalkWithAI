@@ -4,7 +4,6 @@ from google.cloud import speech
 import six
 import os
 import openai
-import playsound
 import sounddevice as sd
 import soundfile as sf
 from scipy.io.wavfile import write
