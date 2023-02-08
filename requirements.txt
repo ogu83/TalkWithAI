@@ -1,0 +1,9 @@
+google-cloud-translate==2.0.1
+google-cloud-texttospeech
+google-cloud-speech
+openai
+playsound
+sounddevice
+soundfile
+scipy
+wavio
